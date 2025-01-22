@@ -1,6 +1,12 @@
 # Automated Google Form Filler
 
-This Python application uses Selenium to automatically fill out a Google Form multiple times, selecting random answers for each question. It simulates user interaction with radio buttons, checkboxes, and navigates through the form until the submit button is reached.
+This repository provides an example of how to automatically fill out Google Forms (or any similar forms) using Selenium.
+
+In my case, the form had buttons like "Back", "Next", and "Submit" in Korean, and the answers could vary (radio buttons, checkboxes, etc.), so this script was tailored specifically for that. However, this example can be adapted to different forms with different structures and languages. The core idea here is to show how you can automate form submissions by interacting with different input elements.
+
+If you encounter any variations in the form you're working with, feel free to modify the script to suit your needs!
+
+If you have any advice, questions, or need support, feel free to contact me. I'm happy to help!
 
 ## Requirements
 
